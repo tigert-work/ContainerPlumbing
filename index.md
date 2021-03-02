@@ -6,7 +6,9 @@ layout: default
 
 Container Plumbing Days will be **March 9-10, 2021**
 
-The CfP will be posted in January.
+Our [schedule](/schedule) is live!
+
+[**Register now!**](/register)
 
 ## Container Plumbing?
 
@@ -24,7 +26,7 @@ Concepts we plan to explore include:
 * Containers on alternate architectures and platforms
 * Linux cgroups and other kernel features
 
-The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, and many others.  If your project involves lower-level container resources, consider proposing a session!
+The open source projects and technologies we hope to see at the event include Buildah, CRI-O, Katacontainers, Kubevirt, Clair, Skopeo, Cgroups2, Krustlet, Seccomp, Podman, KIND, Tern, WASM, and many others.  If your project involves lower-level container resources, consider proposing a session!
 
 ## Sponsors
 
